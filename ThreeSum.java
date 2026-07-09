@@ -3,6 +3,9 @@
                             Online Java Compiler.
                 Code, Compile, Run and Debug java program online.
 Write your code in this editor and press "Run" button to execute it.
+Sort: O(n log n)
+Outer loop × two-pointer: O(n²)
+Total: O(n²), with O(1) extra space (ignoring sort) 
 
 *******************************************************************************/
 import java.util.Arrays;
